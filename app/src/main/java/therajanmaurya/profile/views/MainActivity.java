@@ -20,11 +20,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
-
         if (toolbar != null) {
             setSupportActionBar(toolbar);
         }
-
         toolbar.setTitle(getString(R.string.app_name));
     }
 
