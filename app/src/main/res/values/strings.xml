@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Profile Samples</string>
+
+    <string name="whats_app_profile_view">WhatsApp Profile View</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="package_name" translatable="false">package</string>
+    <string name="share_profile">Share profile</string>
+    <string name="camera">Camera</string>
+    <string name="remove_photo">Remove Photo</string>
+    <string name="remove">Remove</string>
+    <string name="gallery">Gallery</string>
+    <string name="edit_selected_file">Selected file:</string>
+    <string name="no_file_selected_yet">No file selected yet.</string>
+    <string name="choose_file">Choose a file (max size 512 KB)</string>
+    <string name="portrait_size_can_not_exceed">Portrait can\'t exceed size of 512KB.</string>
+    <string name="cancel">Cancel</string>
+    <string name="upload">Upload</string>
+    <string name="take_photo">Take photo (max size 512 KB)</string>
+    <string name="are_sure_want_remove_photo">Are you sure? you want to remove photo.</string>
+    <string name="gallery_photo_not_changed">Sorry you have not selected any photo from gallery</string>
+    <string name="camera_photo_not_changed">Sorry you have not taken any photo from Camera</string>
+    <string name="you_removed_photo">You have removed photo, Please select photo again from camera or gallery</string>
+    <string name="photo_removed">Photo removed</string>
+
+    <!--Material Dialog-->
+    <string name="dialog_permission_denied">Permission Denied</string>
+    <string name="dialog_action_re_try">Retry</string>
+    <string name="dialog_action_i_am_sure">I\'M Sure</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_action_app_settings">App Settings</string>
+    <string name="permission_denied_write">Permission Denied to use external storage</string>
+    <string name="msg_setting_activity_not_found">Something went wrong finding Settings activity.
+        \nGo to \'Settings\' and grant permission manually.
+    </string>
+    <string name="dialog_message_write_permission_for_share_denied_prompt">Without write permission you will
+        not be able to share the image. Are you sure you want to deny this
+        permission?</string>
+    <string name="dialog_message_write_permission_for_share_never_ask_again">You have denied permission to
+        write in external storage, without this permission you will not be able to share image.
+        Please enable it in settings</string>
+
+    <string name="permission_denied_camera">Permission Denied to use Camera</string>
+    <string name="permission_denied_read">Permission Denied to read external storage</string>
+
+    <string name="dialog_message_write_permission_denied_prompt">Without write permission you will
+        not be able to take photo from camera. Are you sure you want to deny this
+        permission?</string>
+    <string name="dialog_message_camera_permission_for_portrait_denied_prompt">Without camera permission you will
+        not be able to click photo. Are you sure you want to deny this
+        permission?</string>
+
+    <string name="dialog_message_write_permission_never_ask_again">You have denied permission to
+        write in external storage, without this permission you will not be able to take phtot.
+        Please enable it in settings</string>
+
+    <string name="dialog_message_read_permission_denied_prompt">Without read permission you will
+        not be able to view the image from gallery. Are you sure you want to deny this
+        permission?</string>
+    <string name="dialog_message_read_permission_never_ask_again">You have denied permission to
+        read in external storage, without this permission you will not be able to view image from gallery.
+        Please enable it in settings</string>
+
+    <string name="dialog_message_camera_permission_for_portrait_never_ask_again">You have denied permission to
+        use camera, without this permission you will not be able to click photo.
+        Please enable it in settings</string>
+
+</resources>
