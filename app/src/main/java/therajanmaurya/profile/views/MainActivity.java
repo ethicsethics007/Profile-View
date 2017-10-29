@@ -30,5 +30,4 @@ public class MainActivity extends AppCompatActivity {
     void onClickWhatsAppProfile() {
         startActivity(new Intent(this, WhatsAppProfileActivity.class));
     }
-
 }
